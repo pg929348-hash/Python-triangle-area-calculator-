@@ -15,7 +15,7 @@ The program first checks if the triangle is valid:
 python triangle.py
 🍁🍁🧑‍💻🧑‍💻
  *** calculating area of triangle using heron's formula ***
- enter the first side measure:-3
- enter the second side measure:-4
- enter the third side measure:-5
- 6.00
+ enter the first side measure:- 5
+ enter the second side measure:- 6
+ enter the third side measure:- 7
+ Area of triangle is: 14.70
